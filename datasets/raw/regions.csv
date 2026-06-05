@@ -1,0 +1,6 @@
+region_id,state,city,zone
+R1,California,San Francisco,West
+R2,California,Los Angeles,West
+R3,New York,New York,East
+R4,Texas,Austin,South
+R5,Illinois,Chicago,Midwest

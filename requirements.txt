@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+prophet
+statsmodels
+psycopg2-binary
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+python-dotenv
+pytest
+streamlit
+plotly
+faker
